@@ -1,0 +1,50 @@
+{
+  "bot-account": {
+    "username": "onepiece3mk",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "iAceu.aternos.me",
+    "port": 47695 ,
+    "version": "1.12.1"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "" 
+    }, 
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 25,
+
+      "messages": [
+        "/login 2345678",
+        "لا تعلم لكماتي",
+        "هيه انت قول ميو",
+        "احسنت",
+        "يلا كمل لعب"
+      ]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 5000
+  }
+}
